@@ -7,8 +7,8 @@ permalink: ghp
 
 ## table of contents 
 
+- readme
 - why you even should
-- 
 - step one:
 - step two:
 - step three:
@@ -36,36 +36,28 @@ called <code>lloyd-christmas</code> could be hosted online at http://username.gi
 
 ---
 
-## create your site homepage
+## step two: create your site homepage and style it
 
-create a new file called <code>index.html.</code> this will be your homepage hosted at http://username.github.io/. leave everything else blank but enter the following...
-
-<pre>
----
-layout: default
----
-</pre>
-
-that's it. save it. 
-
----
-
-## create your layout template and style it
-
-create a new file called <code>/_layouts/default.html</code>. put the following code into the file and save.
+create a new file called <code>index.html.</code> this will be your homepage hosted at http://username.github.io/. copy following code to get a basic site going. 
 
 ```
 <html>
-<body>
 <head>
 <style>
+body{font-family:sans-serif;}
 </style>
 </head>
+<body>
 <main>
-{{content}}
+<h1>This is Mike Hammer's personal website.</h1>
+<p>I'm a hard-nosed detective who likes to work outside the law. sometimes it gets me in trouble.</p>
 </main>
 </body>
-</htmL>
-
+</html>
 ```
+
+---
+
+## create another page
+
 
