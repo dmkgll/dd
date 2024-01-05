@@ -30,9 +30,9 @@ some time in learning it more thoroughly and understanding some of the more adva
 
 ## step one: create your github account and base site repository
 
-create a github account and create a new repository. call this repository <code>username.github.io</code>. don't call it anything else. this will allow you to host a website at http://username.github.io. don't worry, you
-can change the url later. subsquent repositories can be named whatever you like and can be found as part of your website at http://username.github.io/whateveryouwanttoputhere. for example, a repository
-called <code>lloyd-christmas</code> could be hosted online at http://username.github.io/lloyd-christmas.
+create a github account and create a new repository. call this repository <code>username.github.io</code>. don't call it anything else. this will allow you to host a website at <code>http://username.github.io.</code> don't worry, you
+can change the url later. subsquent repositories can be named whatever you like and can be found as part of your website at <code>http://username.github.io/whateveryouwanttoputhere</code>. for example, a repository
+called <code>lloyd-christmas</code> would be hosted online at <code>http://username.github.io/lloyd-christmas</code>.
 
 ---
 
