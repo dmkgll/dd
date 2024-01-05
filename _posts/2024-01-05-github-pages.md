@@ -65,7 +65,7 @@ create a new file called <code>/_layouts/default.html</code>. put the following 
 {{ content }}
 </main>
 </body>
-</htmL
+</htmL>
 
 ```
 
