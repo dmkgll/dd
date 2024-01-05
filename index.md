@@ -8,6 +8,9 @@ layout: default
 
 ---
 
+- [notes on web design](/wd)
+- [host a free blog on github pages](/gp)
+
 ---
 
 ## about
