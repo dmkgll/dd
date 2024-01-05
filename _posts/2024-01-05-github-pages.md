@@ -38,7 +38,7 @@ called <code>lloyd-christmas</code> would be hosted online at <code>http://usern
 
 ## step two: create your site homepage and style it
 
-create a new file called <code>index.html.</code> this will be your homepage hosted at http://username.github.io/. copy following code to get a basic site going. 
+create a new file called <code>index.html.</code> this will be your homepage hosted at <code>http://username.github.io/</code>. copy following code to get a basic site going. 
 
 ```
 <html>
