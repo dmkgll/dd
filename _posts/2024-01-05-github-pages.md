@@ -54,7 +54,7 @@ that's it. save it.
 
 create a new file called <code>/_layouts/default.html</code>. put the following code into the file and save.
 
-'''
+```
   
 <body>
 <head>
@@ -66,5 +66,5 @@ create a new file called <code>/_layouts/default.html</code>. put the following 
 </main>
 </body>
 
-'''
+```
 
