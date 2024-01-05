@@ -62,7 +62,7 @@ create a new file called <code>/_layouts/default.html</code>. put the following 
 </style>
 </head>
 <main>
-{{ content }}
+{{content}}
 </main>
 </body>
 </htmL>
