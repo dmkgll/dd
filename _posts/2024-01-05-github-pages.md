@@ -55,7 +55,7 @@ that's it. save it.
 create a new file called <code>/_layouts/default.html</code>. put the following code into the file and save.
 
 ```
-  
+<html>
 <body>
 <head>
 <style>
@@ -65,6 +65,7 @@ create a new file called <code>/_layouts/default.html</code>. put the following 
 {{ content }}
 </main>
 </body>
+</htmL
 
 ```
 
