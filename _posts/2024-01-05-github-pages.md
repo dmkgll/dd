@@ -56,16 +56,13 @@ create a new file called <code>/_layouts/default.html</code>. put the following 
 
 <pre>
 <body>
-  <head>
-    <style>
-    
-    </style>
-
+<head>
+<style>
+</style>
+</head>
 <main>
-  {{ content }}
+{{ content }}
 </main>
 </body>
 </pre>
 
-  
-</pre>
