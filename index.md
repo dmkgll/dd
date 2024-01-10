@@ -14,7 +14,7 @@ I'm a writer, researcher, and archiver of internet things (or things that should
 
 I've worked for too many companies and projects to list, usually in "marketing." Industries include bitcoin, firearms and education. These days work on my own things. I think the 1990's were the best time in human civilization and we are just starting to reverse the last two decades of stagnation and cultural rot.
 
-I'm interested in bitcoin, online privacy, Ayn Rand, libertarianism, Christianity, censorship, "lost" or "banned" literature, indie web, the year 1993, old tech, classic space legos. I play competitive Age of Empires II, enjoy hiking and skiing, and read a lot more fiction than non-fiction.
+I'm interested in bitcoin, online privacy, Ayn Rand, cryptoanarchy, Christianity, censorship, "lost" or "banned" literature, internet history, indie web, the year 1993, old tech, and classic space Lego. I play competitive Age of Empires II, enjoy hiking and skiing, and read a lot more fiction than non-fiction.
 
 ---
 
