@@ -10,7 +10,9 @@ layout: default
 
 ## about
 
-I'm a writer, researcher, and archiver of internet things. This site is a miscellany of things that interest me, my writing, work, and information about me.
+I'm a writer, researcher, and archiver of internet things. This site is a miscellany of things that interest me, my writing, work, and information about me. Eventually there will be an [about](/dd/about) page. You can email me at <code>makgill@protonmail.ch</code>.
+
+I've worked for too many companies and projects to list, usually in "marketing," and these days work on my own things.
 
 ---
 
