@@ -8,8 +8,7 @@ layout: default
 
 ---
 
-- [notes on web design](/wd)
-- [host a free blog on github pages](/gp)
+- [sample styles](/sample)
 
 ---
 
@@ -17,8 +16,8 @@ layout: default
 
 HTML and JavaScript on this site is human readable.
 
-pages are designed to be saved for offline use (although images usually must be downloaded separately)
+pages are designed to be saved and/or printed as PDF for offline use (although images usually must be downloaded separately)
 
-2017-2022 David DiPaola. Licensed under CC0 (public domain)
+2024 dm. Licensed under CC0 (public domain)
 
-Generated: 2022-10-16
+Generated: 2024-01-09
