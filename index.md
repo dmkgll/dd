@@ -52,9 +52,9 @@ You can subscribe by emailing me at <code>makgill@protonmail.ch</code> and telli
 
 ## site info
 
-HTML and JavaScript on this site is human readable.
+HTML and JavaScript on this site is human readable in any browser and on any device and is made to last forever.
 
-pages are designed to be saved and/or printed as PDF for offline use (although images usually must be downloaded separately). I prefer a dark reading background, so it's styled accordingly.
+pages are designed to be saved and/or printed as PDF for offline use (although images usually must be downloaded separately). I prefer a dark reading background, so it's styled accordingly. Function over form. I enjoy reading scaling it to half my screen.
 
 disclaimers are [redacted] and shouldn't be necessary.
 
