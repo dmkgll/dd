@@ -14,7 +14,13 @@ I'm a writer, researcher, and archiver of internet things. This site is a miscel
 
 I've worked for too many companies and projects to list, usually in "marketing." Industries include bitcoin, firearms and education. These days work on my own things. I think the 1990's were the best time in human civilization and we are just starting to reverse the last two decades of stagnation and cultural rot.
 
-I play competitive Age of Empires II, enjoy hiking and skiing, and read a lot more fiction than non-fiction.
+I play competitive Age of Empires II, enjoy hiking and skiing, like old tech and anyting from the 90s, and read a lot more fiction than non-fiction.
+
+---
+
+## subscribe
+
+You can subscribe by emailing me at <code>makgill@protonmail.ch</code> and telling me you want to get a weekly email from me. I'm also thinking about a print newsletter if I ever have time. RSS soon.
 
 ---
 
