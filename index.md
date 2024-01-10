@@ -26,7 +26,7 @@ You can subscribe by emailing me at <code>makgill@protonmail.ch</code> and telli
 
 ## news
 
-2024/01/09 - started working on this new site. new year is a good time to start being active online again.
+- 2024/01/09 - started working on this new site. new year is a good time to start being active online again.
 
 ---
 
