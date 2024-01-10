@@ -42,6 +42,10 @@ You can subscribe by emailing me at <code>makgill@protonmail.ch</code> and telli
 
 ---
 
+## other
+
+---
+
 ## site info
 
 HTML and JavaScript on this site is human readable.
