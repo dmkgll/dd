@@ -16,9 +16,7 @@ I'm a writer, publisher, researcher, and archiver of internet things (or things 
 
 I've worked for too many companies and projects to list, usually in "marketing." Industries include bitcoin, firearms and education. I've also worked as a researcher and ghostwriter. I used to speak often at conferences and universities about my experience dropping out of college, bitcoin and libertarianism. These days I work on my own things and am currently building some online stores and various small web projects.
 
-I think the 1990's were the best time in human civilization and we are just starting to reverse the last two decades of stagnation and cultural rot.
-
-I'm enjoy following internet rabbit trails. Old forums, wayback archives, deleted comments. I love that stuff. I'm interested in "conspiracy theories," bitcoin, online privacy, Ayn Rand, cryptoanarchy, Christianity, censorship, "lost" or "banned" literature, internet history & lore, indie web, the year 1993, old tech, and classic space Lego. I play competitive Age of Empires II, enjoy hiking and skiing, and read a lot more fiction than non-fiction.
+I'm enjoy following internet rabbit trails. Old forums, wayback archives, deleted comments. I love that stuff. I think the 1990's were the best time in human civilization and we are just starting to reverse the last two decades of stagnation and cultural rot. I'm interested in "conspiracy theories," bitcoin, online privacy, Ayn Rand, cryptoanarchy, Christianity, censorship, "lost" or "banned" literature, internet history & lore, indie web, the year 1993, old tech, and classic space Lego. I play competitive Age of Empires II, enjoy hiking and skiing, and read a lot more fiction than non-fiction.
 
 ---
 
