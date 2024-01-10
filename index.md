@@ -8,7 +8,7 @@ layout: default
 
 ---
 
-- [sample styles](/sample)
+- [sample styles](/dd/sample)
 
 ---
 
