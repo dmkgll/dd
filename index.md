@@ -52,4 +52,4 @@ disclaimers are [redacted] and shouldn't be necessary.
 
 2024 dm. Licensed under CC0 (public domain)
 
-<p>Generated: {{ site.time }}</p>
+<p>Generated: {{ site.time }}</p> by GitHub Pages
