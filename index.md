@@ -20,4 +20,4 @@ pages are designed to be saved and/or printed as PDF for offline use (although i
 
 2024 dm. Licensed under CC0 (public domain)
 
-Generated: 2024-01-09
+<p>Generated: {{ site.time }}</p>
