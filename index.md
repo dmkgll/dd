@@ -8,6 +8,12 @@ layout: default
 
 ---
 
+## about
+
+I'm a writer, researcher, and archiver of internet things. This site is a miscellany of things that interest me, my writing, work, and information about me.
+
+---
+
 ## recent work
 
 - [banned amazon books](/dd/ab)
