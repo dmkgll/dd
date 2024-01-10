@@ -3,12 +3,6 @@ layout: default
 permalink: sample
 ---
 
----
-layout: post
-title: Style Guide
-date: 2023-11-06
----
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
 ---
