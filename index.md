@@ -14,7 +14,7 @@ I'm a writer, publisher, researcher, and archiver of internet things (or things 
 
 [Here's a photo of me.](/)
 
-I've worked for too many companies and projects to list, usually in "marketing." Industries include bitcoin, firearms and education. I've also worked as a researcher and ghostwriter. These days work on my own things and am currently building some online stores and various small web projects.
+I've worked for too many companies and projects to list, usually in "marketing." Industries include bitcoin, firearms and education. I've also worked as a researcher and ghostwriter. I used to speak often at conferences and universities about my experience dropping out of college, bitcoin and libertarianism. These days I work on my own things and am currently building some online stores and various small web projects.
 
 I think the 1990's were the best time in human civilization and we are just starting to reverse the last two decades of stagnation and cultural rot.
 
