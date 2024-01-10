@@ -38,7 +38,7 @@ I've worked for too many companies and projects to list, usually in "marketing."
 
 HTML and JavaScript on this site is human readable.
 
-pages are designed to be saved and/or printed as PDF for offline use (although images usually must be downloaded separately)
+pages are designed to be saved and/or printed as PDF for offline use (although images usually must be downloaded separately). I prefer a dark reading background, so it's styled accordingly.
 
 disclaimers are [redacted] and shouldn't be necessary.
 
