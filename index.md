@@ -18,6 +18,8 @@ I've worked for too many companies and projects to list, usually in "marketing."
 
 ## news
 
+2024/01/09 - started working on this new site. new year is a good time to start being active online again.
+
 ---
 
 ## recent work
