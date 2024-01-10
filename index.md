@@ -48,6 +48,10 @@ You can subscribe by emailing me at <code>makgill@protonmail.ch</code> and telli
 
 ---
 
+## pages/projects
+
+---
+
 ## site info
 
 HTML and JavaScript on this site is human readable in any browser and on any device and is made to last forever.
