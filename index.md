@@ -8,12 +8,14 @@ layout: default
 
 ---
 
+## recent work
+
 - [banned amazon books](/dd/ab)
 - [sample styles](/dd/sample)
 
 ---
 
-## about
+## site info
 
 HTML and JavaScript on this site is human readable.
 
