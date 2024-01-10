@@ -19,6 +19,11 @@ I've worked for too many companies and projects to list, usually in "marketing,"
 ## recent work
 
 - [banned amazon books](/dd/ab)
+
+---
+
+## weblog
+
 - [sample styles](/dd/sample)
 
 ---
