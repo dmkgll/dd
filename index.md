@@ -10,7 +10,7 @@ layout: default
 
 ## about
 
-I'm a writer, researcher, and archiver of internet things. This site is a miscellany of things that interest me, my writing, work, and information about me. Eventually there will be an [about](/dd/about) page. You can email me at <code>makgill@protonmail.ch</code>.
+I'm a writer, researcher, and archiver of internet things. This site is a miscellany of things that interest me, my writing, work, information about me, and useful things I wanted to see online. And other things. Click around. Eventually there will be an [about](/dd/about) page. You can email me at <code>makgill@protonmail.ch</code>.
 
 I've worked for too many companies and projects to list, usually in "marketing." Industries include bitcoin, firearms and education. These days work on my own things. I think the 1990's were the best time in human civilization and we are just starting to reverse the last two decades of stagnation and cultural rot.
 
