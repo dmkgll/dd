@@ -12,7 +12,7 @@ layout: default
 
 I'm a writer, researcher, and archiver of internet things (or things that should be on the internet). This site is a miscellany of things that interest me, my writing, work, information about me, and useful things I wanted to see online. And other things. Click around. Eventually there will be an [about](/dd/about) page. You can email me at <code>makgill@protonmail.ch</code>.
 
-I've worked for too many companies and projects to list, usually in "marketing." Industries include bitcoin, firearms and education. These days work on my own things. I think the 1990's were the best time in human civilization and we are just starting to reverse the last two decades of stagnation and cultural rot.
+I've worked for too many companies and projects to list, usually in "marketing." Industries include bitcoin, firearms and education. These days work on my own things. 
 
 I'm interested in bitcoin, online privacy, Ayn Rand, cryptoanarchy, Christianity, censorship, "lost" or "banned" literature, internet history, indie web, the year 1993, old tech, and classic space Lego. I play competitive Age of Empires II, enjoy hiking and skiing, and read a lot more fiction than non-fiction.
 
