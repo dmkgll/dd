@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: meme-warefare
+permalink: meme-warfare
 ---
 
-# on meme warefare in a dim age
+# on meme warfare in a dim age
