@@ -14,7 +14,7 @@ I'm a writer, publisher (soon), researcher, and archiver of internet things (or 
 
 [Here's a photo of me.](/)
 
-I've worked for/on a lot of different companies and projects, usually in "marketing." Things like bitcoin, firearms and education. I've also worked as a researcher and ghostwriter. I used to speak often at conferences and universities about my experience dropping out of college, bitcoin and libertarianism. These days I work on my own things and am currently building some online stores and various small web projects.
+I've worked for/on a lot of different companies and projects, usually in "marketing." Things like bitcoin, firearms and education. I've also worked as a researcher and ghostwriter. I used to speak often at conferences and universities about my experience dropping out of college, bitcoin and libertarianism. These days I work on my own things and am currently building some online stores and various 'smol' web projects.
 
 I'm enjoy following internet rabbit trails on old forums, Wayback archives, deleted comments, etc. I think the 1990's were the best time in human civilization and we are just starting to reverse the last two decades of stagnation and cultural rot. I'm interested in memes, "conspiracy theories," bitcoin, online privacy, Ayn Rand, cryptoanarchy, Christianity, censorship, "lost" or "banned" literature, internet history & lore, indie web, the year 1993, old tech, and classic space Lego. I play competitive Age of Empires II, enjoy hiking and skiing, and read a lot more fiction than non-fiction.
 
@@ -28,6 +28,7 @@ You can subscribe by emailing me at <code>makgill@protonmail.ch</code> and telli
 
 ## news/notes
 
+- 2024/01/17 - broke my foot recently which means I have nothing to do but sit around and POST.
 - 2024/01/09 - started working on this new site. new year is a good time to start being active online again.
 
 ---
@@ -40,6 +41,7 @@ You can subscribe by emailing me at <code>makgill@protonmail.ch</code> and telli
 
 ## weblog
 
+- [thread on meme warefare in 2024](/dd/meme-warefare)
 - ["goodbye my love!"](/dd/gb)
 - [sample styles](/dd/sample)
 - [hello, world](/dd/hello)
