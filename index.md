@@ -40,7 +40,7 @@ You can subscribe by emailing me at <code>makgill@protonmail.ch</code> and telli
 
 ## weblog
 
-- ["goodbye my love!"](/dd/goodbyelove)
+- ["goodbye my love!"](/dd/gb)
 - [sample styles](/dd/sample)
 - [hello, world](/dd/hello)
 
