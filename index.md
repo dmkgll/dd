@@ -41,7 +41,7 @@ You can subscribe by emailing me at <code>makgill@protonmail.ch</code> and telli
 
 ## weblog
 
-- [thread on meme warefare in 2024](/dd/meme-warefare)
+- [thread on meme warfare in 2024](/dd/meme-warfare)
 - ["goodbye my love!"](/dd/gb)
 - [sample styles](/dd/sample)
 - [hello, world](/dd/hello)
