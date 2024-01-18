@@ -10,7 +10,7 @@ layout: default
 
 ## about
 
-I'm a writer, publisher (soon), researcher, and archiver of internet things (or things that should be on the internet). This new site will be a miscellany of things that interest me, my writing, work, information about me, and useful things I wanted to see online. And other things. Click around. Eventually there will be an [about](/dd/about) page. You can email me at <code>makgill@protonmail.ch</code>.
+I'm a writer, publisher (soon), researcher, and archiver of internet things (or things that should be on the internet). This new site will be a miscellany of things that interest me, my writing, work, information about me, and useful things I wanted to see online. And other things. [Click around.](/storm) Eventually there will be an [about](/dd/about) page. You can email me at <code>makgill@protonmail.ch</code>.
 
 [Here's a photo of me.](/)
 
