@@ -10,13 +10,13 @@ layout: default
 
 ## about
 
-I'm a writer, publisher, researcher, and archiver of internet things (or things that should be on the internet). This site is a miscellany of things that interest me, my writing, work, information about me, and useful things I wanted to see online. And other things. Click around. Eventually there will be an [about](/dd/about) page. You can email me at <code>makgill@protonmail.ch</code>.
+I'm a writer, publisher (soon), researcher, and archiver of internet things (or things that should be on the internet). This new site will be a miscellany of things that interest me, my writing, work, information about me, and useful things I wanted to see online. And other things. Click around. Eventually there will be an [about](/dd/about) page. You can email me at <code>makgill@protonmail.ch</code>.
 
 [Here's a photo of me.](/)
 
-I've worked for too many companies and projects to list, usually in "marketing." Industries include bitcoin, firearms and education. I've also worked as a researcher and ghostwriter. I used to speak often at conferences and universities about my experience dropping out of college, bitcoin and libertarianism. These days I work on my own things and am currently building some online stores and various small web projects.
+I've worked for/on a lot of different companies and projects, usually in "marketing." Things like bitcoin, firearms and education. I've also worked as a researcher and ghostwriter. I used to speak often at conferences and universities about my experience dropping out of college, bitcoin and libertarianism. These days I work on my own things and am currently building some online stores and various small web projects.
 
-I'm enjoy following internet rabbit trails. Old forums, wayback archives, deleted comments. I love that stuff. I think the 1990's were the best time in human civilization and we are just starting to reverse the last two decades of stagnation and cultural rot. I'm interested in memes, "conspiracy theories," bitcoin, online privacy, Ayn Rand, cryptoanarchy, Christianity, censorship, "lost" or "banned" literature, internet history & lore, indie web, the year 1993, old tech, and classic space Lego. I play competitive Age of Empires II, enjoy hiking and skiing, and read a lot more fiction than non-fiction.
+I'm enjoy following internet rabbit trails on old forums, Wayback archives, deleted comments, etc. I think the 1990's were the best time in human civilization and we are just starting to reverse the last two decades of stagnation and cultural rot. I'm interested in memes, "conspiracy theories," bitcoin, online privacy, Ayn Rand, cryptoanarchy, Christianity, censorship, "lost" or "banned" literature, internet history & lore, indie web, the year 1993, old tech, and classic space Lego. I play competitive Age of Empires II, enjoy hiking and skiing, and read a lot more fiction than non-fiction.
 
 ---
 
@@ -34,13 +34,15 @@ You can subscribe by emailing me at <code>makgill@protonmail.ch</code> and telli
 
 ## recent work
 
-- [banned amazon books](/dd/ab)
+- [banned amazon books](/dd/ab) coming soon
 
 ---
 
 ## weblog
 
+- ["goodbye my love!"](/dd/goodbyelove)
 - [sample styles](/dd/sample)
+- [hello, world|(/dd/hello)
 
 ---
 
