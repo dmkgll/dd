@@ -54,7 +54,7 @@ You can subscribe by emailing me at <code>makgill@protonmail.ch</code> and telli
 
 ## pages/projects
 
-- [sewnbinding.com](/https://sewnbinding.com): tee shirts and mugs from the best first edition dust jackets of (mostly) the 20th century.
+- [sewnbinding.com](https://sewnbinding.com): tee shirts and mugs from the best first edition dust jackets of (mostly) the 20th century.
 
 ---
 
